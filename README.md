@@ -3,6 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nishadi254&label=Profile%20views&color=0e75b6&style=flat" alt="nishadi254" /> </p>
 
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:ffc0cb,100:ff99aa&height=80&section=footer&text=Keep%20Coding%20Keep%20Learning&fontSize=30&animation=fadeIn&fontColor=ffffff)
+</div></div>
+
+</br>
 
  🌱 I’m currently learning **C#, php, Java, MySql**
 
@@ -89,12 +95,7 @@
 ---
 
 
-<div align="center">
 
-❤️ Thanks for visiting my profile!
-
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:ffc0cb,100:ff99aa&height=80&section=footer&text=Keep%20Coding%20Keep%20Learning&fontSize=30&animation=fadeIn&fontColor=ffffff)
-</div>
 
 
 
